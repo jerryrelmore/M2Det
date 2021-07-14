@@ -94,7 +94,7 @@ pip install opencv-python tqdm
 ```
 - Clone this repository.
 ```Shell
-git clone https://github.com/qijiezhao/M2Det.git
+git clone https://github.com/jerryrelmore/M2Det.git
 ```
 - Compile the nms and coco tools:
 
